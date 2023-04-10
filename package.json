@@ -2,7 +2,9 @@
   "name": "ainter",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "gc": "npx nx g c"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~15.2.0",
